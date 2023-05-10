@@ -6,6 +6,7 @@
 .mypy_cache
 .pytest_cache
 .tox
+.venv
 dist
 docs/_build
 htmlcov
